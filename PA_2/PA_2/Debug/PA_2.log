@@ -1,0 +1,11 @@
+﻿  PA_2.cpp
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(43,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(51,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(58,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(69,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(74,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(75,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(85,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(95,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\PA_2.cpp(98,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PA_2.vcxproj -> C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA_2\Debug\PA_2.exe

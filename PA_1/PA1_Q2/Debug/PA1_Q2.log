@@ -1,0 +1,5 @@
+﻿  PA1_Q2.cpp
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_1\PA1_Q2\PA1_Q2.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_1\PA1_Q2\PA1_Q2.cpp(32,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_1\PA1_Q2\PA1_Q2.cpp(51,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PA1_Q2.vcxproj -> C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_1\PA1_Q2\Debug\PA1_Q2.exe

@@ -1,0 +1,11 @@
+﻿  PA2_COPY.cpp
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(32,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(41,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(48,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(80,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(114,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(141,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(146,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\PA2_COPY.cpp(150,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PA2_COPY.vcxproj -> C:\Users\hocka\OneDrive\Desktop\School\Spring_2022\CS_Fundamentals\Assignments\PA_2\PA2_COPY\Debug\PA2_COPY.exe
